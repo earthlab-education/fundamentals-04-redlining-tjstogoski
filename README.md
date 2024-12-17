@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/888749163.svg)](https://doi.org/10.5281/zenodo.14503861)
-
 # Redlining Coding Challenge
 
 To complete this assignment:
